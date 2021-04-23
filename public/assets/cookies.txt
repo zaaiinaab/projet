@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+boom-theme.myshopify.com	TRUE	/43704549536/checkouts/656c77e46db4529bbc797e0aab67612c	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZqTTJKaE16ZGhZamMwTW1ZNU4yWmtOVGxpTlRCbVlXWTJOV1JtTTJVeE9RWTZCa1ZVIiwiZXhwIjoiMjAyMS0wNS0xMlQyMzo0Mzo0OS4yOTlaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--e2c5caf68908452a875313dacca3ace554695073
+boom-theme.myshopify.com	TRUE	/43704549536	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUyTlRaak56ZGxORFprWWpRMU1qbGlZbU0zT1RkbE1HRmhZalkzTmpFeVl3WTZCa1ZVIiwiZXhwIjoiMjAyMi0wNC0yMVQyMzo0Mzo0OS4yOTlaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--19097a259545cc533210075b716529e9bf1a6910
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart	014568bf7e9e27a6b8f3446b8d9edeee
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1619048478
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_token	AS7OIyzc45j-LR3z4eRIP6D7pdO7L69Qyhy3ot2Dwk6HN_WDQLQ4hKcw-BLJOz5k0QENlmOvWunmnhsRYXqQBeit4ApU9leFFgPjTH5N-v5hV1VsC-aDB7kVRRHI3FB9HRDYDglU0Rc3aBFMNKI6XrMre6PKZ2qKPPuJLychy1wNT8RTe9M9kQ%3D%3D
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUyTlRaak56ZGxORFprWWpRMU1qbGlZbU0zT1RkbE1HRmhZalkzTmpFeVl3WTZCa1ZVIiwiZXhwIjoiMjAyMS0wNC0yMlQwMDo0MToxOC44NTVaIiwicHVyIjoiY29va2llLl9jaGVja291dF9xdWV1ZV9jaGVja291dF90b2tlbiJ9fQ%3D%3D--8de720c9c9d39222acbd4c05a662738ebc0a2ef6
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-east1%3A2
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	653e054aef0a9e5df2b5b2bb78093488
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	_y	cfd4e7f1-bd72-4a8e-87a4-a4bbd8932a08
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	_s	94f44494-f449-486f-b32e-4488f21a4b94
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	cfd4e7f1-bd72-4a8e-87a4-a4bbd8932a08
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	94f44494-f449-486f-b32e-4488f21a4b94
+boom-theme.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
